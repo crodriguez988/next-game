@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/next-game/static/css/main.a617e044.chunk.css",
+    "main.js": "/next-game/static/js/main.d5c5307a.chunk.js",
+    "main.js.map": "/next-game/static/js/main.d5c5307a.chunk.js.map",
+    "runtime-main.js": "/next-game/static/js/runtime-main.2b8f48e4.js",
+    "runtime-main.js.map": "/next-game/static/js/runtime-main.2b8f48e4.js.map",
+    "static/js/2.44f1ebab.chunk.js": "/next-game/static/js/2.44f1ebab.chunk.js",
+    "static/js/2.44f1ebab.chunk.js.map": "/next-game/static/js/2.44f1ebab.chunk.js.map",
+    "static/js/3.833ef04f.chunk.js": "/next-game/static/js/3.833ef04f.chunk.js",
+    "static/js/3.833ef04f.chunk.js.map": "/next-game/static/js/3.833ef04f.chunk.js.map",
+    "index.html": "/next-game/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/next-game/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.44f1ebab.chunk.js.LICENSE.txt": "/next-game/static/js/2.44f1ebab.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/next-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b8f48e4.js",
+    "static/js/2.44f1ebab.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d5c5307a.chunk.js"
+  ]
+}
